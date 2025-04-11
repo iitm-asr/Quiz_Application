@@ -30,9 +30,11 @@ Add additional features.
 Improve the console design.
 Introduce innovative and interactive ideas.
 
+
 🔧 Optional Enhancements:
+
 Take your application to the next level by implementing these features:
-Command-line Arguments: Use the argparse library to allow users to specify quiz files or configurations via the terminal.
-Data Handling: Incorporate libraries like json or csv for storing and retrieving quiz questions, answers, and scores.
-Console Visuals: Enhance the user interface with color libraries such as colorama to make the quiz visually appealing.
-File Management: Explore the os library for tasks such as loading quiz data dynamically or saving results.
+- Command-line Arguments: Use the argparse library to allow users to specify quiz files or configurations via the terminal.
+- Data Handling: Incorporate libraries like json or csv for storing and retrieving quiz questions, answers, and scores.
+- Console Visuals: Enhance the user interface with color libraries such as colorama to make the quiz visually appealing.
+- File Management: Explore the os library for tasks such as loading quiz data dynamically or saving results.
