@@ -1,0 +1,303 @@
+[
+    {
+        "question": "What does CPU stand for?",
+        "options": [
+            "Central Processing Unit",
+            "Central Program Unit",
+            "Central Power Unit",
+            "Computer Processing Unit"
+        ],
+        "answer": "Central Processing Unit"
+    },
+    {
+        "question": "Which device is used to input text into a computer?",
+        "options": [
+            "Monitor",
+            "Mouse",
+            "Keyboard",
+            "Speaker"
+        ],
+        "answer": "Keyboard"
+    },
+    {
+        "question": "What is the main function of RAM?",
+        "options": [
+            "Permanent storage",
+            "Processing data",
+            "Temporary memory",
+            "Displaying images"
+        ],
+        "answer": "Temporary memory"
+    },
+    {
+        "question": "Which one is an example of an output device?",
+        "options": [
+            "Mouse",
+            "Keyboard",
+            "Monitor",
+            "Scanner"
+        ],
+        "answer": "Monitor"
+    },
+    {
+        "question": "Which key is used to start a new line in a document?",
+        "options": [
+            "Shift",
+            "Enter",
+            "Ctrl",
+            "Esc"
+        ],
+        "answer": "Enter"
+    },
+    {
+        "question": "Which of these is a web browser?",
+        "options": [
+            "Google Chrome",
+            "Windows",
+            "Microsoft Word",
+            "File Explorer"
+        ],
+        "answer": "Google Chrome"
+    },
+    {
+        "question": "What does URL stand for?",
+        "options": [
+            "Uniform Resource Locator",
+            "Universal Reference Link",
+            "User Reference Locator",
+            "Unique Resource Location"
+        ],
+        "answer": "Uniform Resource Locator"
+    },
+    {
+        "question": "What does an antivirus program do?",
+        "options": [
+            "Speeds up the computer",
+            "Protects against viruses",
+            "Creates documents",
+            "Installs games"
+        ],
+        "answer": "Protects against viruses"
+    },
+    {
+        "question": "What type of software is MS Paint?",
+        "options": [
+            "System software",
+            "Antivirus software",
+            "Graphics software",
+            "Programming software"
+        ],
+        "answer": "Graphics software"
+    },
+    {
+        "question": "Which is the main operating system used in Apple computers?",
+        "options": [
+            "Windows",
+            "Linux",
+            "MacOS",
+            "Android"
+        ],
+        "answer": "MacOS"
+    },
+    {
+        "question": "Which part of a computer stores data permanently?",
+        "options": [
+            "RAM",
+            "Processor",
+            "Hard Drive",
+            "Power Supply"
+        ],
+        "answer": "Hard Drive"
+    },
+    {
+        "question": "Which one is a storage device?",
+        "options": [
+            "Mouse",
+            "USB Flash Drive",
+            "Monitor",
+            "Keyboard"
+        ],
+        "answer": "USB Flash Drive"
+    },
+    {
+        "question": "Which company developed Windows OS?",
+        "options": [
+            "Google",
+            "Microsoft",
+            "Apple",
+            "IBM"
+        ],
+        "answer": "Microsoft"
+    },
+    {
+        "question": "What is the default file format of a Microsoft Word document?",
+        "options": [
+            ".pdf",
+            ".docx",
+            ".jpg",
+            ".ppt"
+        ],
+        "answer": ".docx"
+    },
+    {
+        "question": "What is the full form of HTTP?",
+        "options": [
+            "HyperText Transfer Protocol",
+            "HyperText Transmission Process",
+            "High Transfer Text Protocol",
+            "Home Transfer Text Process"
+        ],
+        "answer": "HyperText Transfer Protocol"
+    },
+    {
+        "question": "Which of these is an example of an email service provider?",
+        "options": [
+            "Google Docs",
+            "Gmail",
+            "Notepad",
+            "Paint"
+        ],
+        "answer": "Gmail"
+    },
+    {
+        "question": "What does AI stand for in computing?",
+        "options": [
+            "Automated Information",
+            "Advanced Internet",
+            "Artificial Intelligence",
+            "Advanced Integration"
+        ],
+        "answer": "Artificial Intelligence"
+    },
+    {
+        "question": "Which shortcut is used to copy text?",
+        "options": [
+            "Ctrl + V",
+            "Ctrl + C",
+            "Ctrl + X",
+            "Ctrl + P"
+        ],
+        "answer": "Ctrl + C"
+    },
+    {
+        "question": "Which key is used to delete text?",
+        "options": [
+            "Backspace",
+            "Shift",
+            "Tab",
+            "Esc"
+        ],
+        "answer": "Backspace"
+    },
+    {
+        "question": "Which language is used for web development?",
+        "options": [
+            "Python",
+            "C++",
+            "Java",
+            "HTML"
+        ],
+        "answer": "HTML"
+    },
+    {
+        "question": "Which device is needed to connect to the internet?",
+        "options": [
+            "Printer",
+            "Router",
+            "Scanner",
+            "Speaker"
+        ],
+        "answer": "Router"
+    },
+    {
+        "question": "Which type of memory is used for short-term storage while a computer is running?",
+        "options": [
+            "Hard Disk",
+            "RAM",
+            "CD-ROM",
+            "Flash Drive"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "question": "What does USB stand for?",
+        "options": [
+            "Universal Serial Bus",
+            "United Service Board",
+            "Ultra Speed Board",
+            "Universal System Backup"
+        ],
+        "answer": "Universal Serial Bus"
+    },
+    {
+        "question": "Which of these is NOT an example of an operating system?",
+        "options": [
+            "Windows",
+            "Linux",
+            "Google Drive",
+            "MacOS"
+        ],
+        "answer": "Google Drive"
+    },
+    {
+        "question": "Which one is used for creating slideshows?",
+        "options": [
+            "MS Word",
+            "Excel",
+            "PowerPoint",
+            "Paint"
+        ],
+        "answer": "PowerPoint"
+    },
+    {
+        "question": "What is the full form of Wi-Fi?",
+        "options": [
+            "Wireless Fidelity",
+            "Wired Frequency",
+            "Wide Firewall",
+            "Wireless Frequency"
+        ],
+        "answer": "Wireless Fidelity"
+    },
+    {
+        "question": "What is the function of a printer?",
+        "options": [
+            "Displays images",
+            "Prints documents",
+            "Stores data",
+            "Connects to the internet"
+        ],
+        "answer": "Prints documents"
+    },
+    {
+        "question": "Which one is a search engine?",
+        "options": [
+            "Facebook",
+            "Chrome",
+            "Google",
+            "Windows"
+        ],
+        "answer": "Google"
+    },
+    {
+        "question": "Which one is a programming language?",
+        "options": [
+            "Python",
+            "Photoshop",
+            "PowerPoint",
+            "Paint"
+        ],
+        "answer": "Python"
+    },
+    {
+        "question": "Which device is used to point and click on a computer screen?",
+        "options": [
+            "Keyboard",
+            "Mouse",
+            "Printer",
+            "Monitor"
+        ],
+        "answer": "Mouse"
+    }
+    
+]
