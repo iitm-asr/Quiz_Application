@@ -1,17 +1,28 @@
-# Quiz_Application
+# 🧠 Quiz Application
 
-A Quiz Application developed in Python, designed to offer interactive and engaging quizzes. This project provides a solid foundation for building customized quiz programs, while encouraging creativity and innovation through additional features and enhancements.
+A user-friendly **Python-based GUI Quiz App** built using `tkinter`. This app lets users take a multiple-choice quiz with a 10-second timer per question, and tracks scores using a local JSON file.
+
 
 📜 Overview: 
-This Quiz Application is a versatile tool for creating and taking quizzes. It is crafted with simplicity in mind, ensuring usability, while being flexible for advanced improvements. From basic question-answer functionalities to optional enhanced features like dynamic visuals and file management, this project is a great way to explore Python programming concepts.
 
-🌟 Features:
-A variety of pre-loaded questions with multiple-choice options.
-Real-time scoring to evaluate performance.
-User-friendly console interface.
-Highly customizable question formats.
+- This Quiz Application is a versatile tool for creating and taking quizzes. 
+- It is crafted with simplicity in mind, ensuring usability, while being flexible for advanced improvements.
+- From basic question-answer functionalities to optional enhanced features like dynamic visuals and file management, this project is a great way to
+  explore Python programming concepts.
+
+## 🚀 Features
+
+- 🎨 Modern, responsive GUI built with `tkinter`
+- 👤 User name input and dynamic question count selection
+- ❓ Randomized questions with 4-option multiple choice
+- ⏱ 10-second countdown timer per question
+- ✅ Instant feedback with colored buttons
+- 📊 Final score display with replay option
+- 💾 Reads from `questions.json` and saves to `Scores.json`
+
 
 🎯 Project Goals:
+
 Develop a functional Quiz Application.
 Provide a hands-on opportunity for students to expand their knowledge of Python.
 Encourage creativity by allowing users to:
